@@ -1,6 +1,4 @@
 from Socket import Socket
-import asyncio
-
 
 class Server(Socket):
     def __init__(self):

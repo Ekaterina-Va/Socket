@@ -1,7 +1,5 @@
 from Socket import Socket
-from datetime import datetime
 
-from os import system
 import asyncio
 
 
